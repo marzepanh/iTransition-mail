@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f00197d-c7a5-4dd5-a1f6-d87df5914bac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/workerman/workerman" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="25CI5yOUzCmASJqSj7RYlaGIoq8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\iTransition-mail\images" />
+      <recent name="C:\OpenServer\domains\iTransition-mail\css" />
+      <recent name="C:\OpenServer\domains\iTransition-mail\vendor" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\iTransition-mail" />
+      <recent name="C:\OpenServer\domains\iTransition-mail\vendor" />
+      <recent name="C:\OpenServer\domains\iTransition-mail\public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f00197d-c7a5-4dd5-a1f6-d87df5914bac" name="Default Changelist" comment="" />
+      <created>1645024461890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645024461890</updated>
+      <workItem from="1645024462963" duration="891000" />
+      <workItem from="1645025427543" duration="31026000" />
+      <workItem from="1645118873753" duration="11238000" />
+      <workItem from="1645169252954" duration="6252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1675" y="81" key="FileChooserDialogImpl" timestamp="1645102895298">
+      <screen x="1366" y="7" width="1360" height="728" />
+    </state>
+    <state x="1675" y="81" key="FileChooserDialogImpl/0.0.1366.728/1366.7.1360.728@1366.7.1360.728" timestamp="1645102895298" />
+    <state x="310" y="74" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1645056600535" />
+    <state x="516" y="287" key="NewPhpFileDialog" timestamp="1645173828612">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="516" y="287" key="NewPhpFileDialog/0.0.1366.728/1366.7.1360.728@0.0.1366.728" timestamp="1645173828612" />
+    <state x="1880" y="294" key="NewPhpFileDialog/0.0.1366.728/1366.7.1360.728@1366.7.1360.728" timestamp="1645113119377" />
+    <state x="1753" y="7" width="585" height="728" key="find.popup" timestamp="1645030671873">
+      <screen x="1366" y="7" width="1360" height="728" />
+    </state>
+    <state x="1753" y="7" width="585" height="728" key="find.popup/0.0.1366.728/1366.7.1360.728@1366.7.1360.728" timestamp="1645030671873" />
+  </component>
+</project>
